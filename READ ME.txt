@@ -12,4 +12,6 @@ READ ME:
 	program should tell you where to find it as well.
 
 	DO NOT DELETE the "Discharge_Files" folder, otherwise an error will occur (it won't terminate the program
-	but there won't be output files)
+	but there won't be output files). If there is no "Discharge_Files" folder, make the folder in the same directory 
+	as "Final_Python_Project.py". It's case sensitive, so name the folder exactly (without the quotes, of course). 
+	
