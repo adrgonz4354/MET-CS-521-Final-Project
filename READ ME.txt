@@ -1,0 +1,15 @@
+Symptom Checker By Adrian Gonzalez
+MET CS-521 Information Structures With Python
+
+READ ME:
+
+	Make sure that the datetime module and os module works on your version of Python
+	To run the code, click on the "Final_Python_Project.py" file. 
+	
+	If you want to check your symptoms do $start and answer with y or n answers. 
+
+	If you want to check your discharge files, click on the discharge_files folder and find the .txt file. The 
+	program should tell you where to find it as well.
+
+	DO NOT DELETE the "Discharge_Files" folder, otherwise an error will occur (it won't terminate the program
+	but there won't be output files)
